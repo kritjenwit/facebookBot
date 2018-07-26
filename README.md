@@ -46,3 +46,4 @@ curl_exec($ch);
 curl_close($ch);
 http_response_code(200);
 ```
+and test the bot
