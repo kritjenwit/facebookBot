@@ -5,8 +5,8 @@ Facebook bot is created by using PHP. And this is a simple and also sample to bu
 What all you need is https server and curl 
 
 ### First step
-create a file named as what you want in my case i will write webhook.php
+create a file named as what you want in my case i will write webhook.php. And then write this code
 
 ```
-Example
+
 ```
